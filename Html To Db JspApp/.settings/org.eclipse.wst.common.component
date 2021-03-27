@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Html To Db JspApp">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Html_To_Db_JspApp"/>
-        <property name="java-output-path" value="/Html To Db JspApp/build/classes"/>
-    </wb-module>
-</project-modules>
