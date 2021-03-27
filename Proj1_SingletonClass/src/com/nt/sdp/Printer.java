@@ -1,7 +1,5 @@
 package com.nt.sdp;
 
-import java.io.IOException;
-
 import com.nt.utils.Commonutils;
 
 public class Printer extends Commonutils
